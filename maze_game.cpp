@@ -69,3 +69,10 @@ int main() {
     cout << "Congratulations! You reached the goal!" << endl;
     return 0;
 }
+
+
+#In this example, the player ('P') is at position (1, 1) in the maze, and the goal ('G') is at position (8, 8).
+#The '#' characters represent walls, and the empty spaces represent the paths the player can navigate.
+
+#As you play the game and use the arrow keys to move the player, the console will clear and update the maze 
+#display in real-time, showing the new position of the player ('P') after each move.'''
