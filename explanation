@@ -1,0 +1,11 @@
+explanation:
+The maze_game.cpp code is a simple maze game that runs in the console.
+It uses the characters # (hash), P (player), and G (goal) to create a maze layout.
+The player starts at position (1, 1) marked by 'P', and they need to reach the goal 'G' at position (8, 8).
+The maze contains walls represented by #, and the player can't move through them.
+The player can use the arrow keys ('w' for up, 's' for down, 'a' for left, 'd' for right) to move 'P' through the maze.
+The console will update the maze display in real-time after each move.
+The game continues until the player reaches the goal 'G'.
+Once the player reaches the goal, the game displays a congratulatory message.
+In summary, the maze game lets you control the 'P' character in a 2D maze, and you need to find your way to the goal 'G' while avoiding the walls ('#').
+Use the arrow keys to move, and when you reach 'G', the game will celebrate your success!
